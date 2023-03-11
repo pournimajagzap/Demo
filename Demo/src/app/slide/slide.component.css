@@ -1,0 +1,18 @@
+.sidenav {
+    height: 550px;
+    width: 250px;
+    position:relative;
+    z-index: 1;
+    padding-top: 20px;
+    background: linear-gradient(to bottom ,rgb(167, 104, 114),rgb(85, 23, 31));
+     
+  }
+
+  .sidenav a{
+display: flex;
+    padding: 10px 10px 10px 50px;
+    font-size: 25px;
+    margin-top: 40px;
+    color:white;
+    
+  }
